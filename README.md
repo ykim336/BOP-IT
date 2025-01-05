@@ -4,7 +4,7 @@
 
 BOP-IT is a modern rendition of the classic "Simon Says" game created by Hasbro Gaming. This project brings the excitement of BOP-IT to life with a combination of hardware components and software libraries, creating an engaging game where players respond to commands by performing specific actions.
 
-https://github.com/ykim336/BOP-IT/assets/117234817/73df20df-1fd7-4ba1-ab52-3ee5c305cc77
+https://github.com/ykim336/BOP-IT/assets/117234817/73df20df-1fd7-4ba1-ab52-3ee5c305cc77 
 
 ## Table of Contents
 
